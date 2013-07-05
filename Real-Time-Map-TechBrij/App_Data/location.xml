@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<locations>
+  <location name="A" lat="9.074614" lng="77.849121"></location>
+  <location name="B" lat="15.24" lng="77.16"></location>
+  <location name="C" lat="13.5" lng="79.2"></location>
+  <location name="D" lat="17.22" lng="78.28"></location>
+  <location name="E" lat="21.22" lng="80.28"></location>
+  <location name="F" lat="25.22" lng="75.28"></location>
+  <location name="G" lat="28.22" lng="78.28"></location>
+  <location name="G" lat="28.22" lng="58.28"></location>
+ </locations>
